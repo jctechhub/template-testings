@@ -1,9 +1,26 @@
 {
+  "profile": [
+    {
+      "name": "Raj",
+      "id": 1
+    },
+    {
+      "name": "Raj",
+      "postId": "1",
+      "id": 2
+    },
+    {
+      "name": "Raj",
+      "postId": "1",
+      "id": 3
+    }
+  ],
   "posts": [
     {
       "id": 1,
       "title": "json-server",
-      "author": "Karthik KK"
+      "author": "Karthik KK",
+      "profile": ""
     },
     {
       "id": 2,
@@ -50,6 +67,11 @@
     },
     {
       "id": 11
+    },
+    {
+      "id": "17",
+      "title": "RestSharp demo course",
+      "author": "Execute Automation"
     }
   ],
   "comments": [
